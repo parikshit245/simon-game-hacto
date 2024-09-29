@@ -8,7 +8,7 @@ The goal of the challenge is to restore the game's functionality by completing s
 
 ### What’s the Twist?
 
-- The `checkAnswer()` function has some missing logic that needs to be fixed.
+- The index.js file has some missing logic that needs to be fixed.
 - There's a missing piece that determines how the game responds when something goes wrong. It's up to you to decide what should happen if the user's input is not correct.
 - The functions are not been called. Can you figure out how you will going to call it?
 
@@ -20,15 +20,10 @@ The goal of the challenge is to restore the game's functionality by completing s
 
 ### Your Task
 
-- **Fix the missing logic** in the `checkAnswer()` function. Think about what happens when things don't go as expected...
+- **Fix the missing logic** in the index.js. Think about what happens when things don't go as expected...
 - The game needs to restart when a mistake is made. **But how?** You’ll need to figure that out.
 - There's a key function missing. **Can you spot it?**
 
-### Hints
-
-- Pay attention to how patterns are compared in the `checkAnswer()` function. What should happen if they don't match?
-- Think about what needs to happen when the user makes a mistake. What would be the logical next step?
-- Sometimes, a game needs to reset after things go wrong... maybe there's a function for that?
 
 ### How to Play
 
